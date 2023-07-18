@@ -1,4 +1,4 @@
-package br.alura.screenmatch.calculo;
+package br.com.alura.screenmatch.calculo;
 
 public class FiltroRecomendacao {
     public void filtra(Classificacao classificacao){

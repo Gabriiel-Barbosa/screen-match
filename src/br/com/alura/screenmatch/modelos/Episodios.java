@@ -1,11 +1,11 @@
 package br.com.alura.screenmatch.modelos;
 
-import br.alura.screenmatch.calculo.Classificacao;
+import br.com.alura.screenmatch.calculo.Classificacao;
 
 public class Episodios implements Classificacao {
     private int numero;
     private String nome;
-    private  Serie serie;
+    private Serie serie;
     private int totalVisualizacoes;
 
     public int getTotalVisualizacoes() {
@@ -43,7 +43,7 @@ public class Episodios implements Classificacao {
     @Override
     public int getClassificacao() {
         if (totalVisualizacoes > 100){
-           return 4;
+            return 4;
         } else {
             return 2;
         }

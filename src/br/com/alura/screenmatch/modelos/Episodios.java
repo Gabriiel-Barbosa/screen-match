@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.modelos;
+/*package br.com.alura.screenmatch.modelos;
 
 import br.com.alura.screenmatch.calculo.Classificacao;
 
@@ -48,4 +48,4 @@ public class Episodios implements Classificacao {
             return 2;
         }
     }
-}
+} */

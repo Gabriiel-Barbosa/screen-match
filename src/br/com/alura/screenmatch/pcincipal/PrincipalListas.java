@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.pcincipal;
+/* package br.com.alura.screenmatch.pcincipal;
 
 import br.com.alura.screenmatch.modelos.Filme;
 import br.com.alura.screenmatch.modelos.Serie;
@@ -6,8 +6,8 @@ import br.com.alura.screenmatch.modelos.Titulo;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
+import java.util.Collection;*/
+/*import java.util.Collections;
 
 public class PrincipalListas {
     public static void main(String[] args) {
@@ -35,4 +35,4 @@ public class PrincipalListas {
 
 
     }
-}
+}*/

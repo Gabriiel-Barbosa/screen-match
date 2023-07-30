@@ -1,12 +1,16 @@
 
 # ScreenMatch
 
+## Status
+
+✔️ **Finished Project** ✔️
+
 This project is being built alongside the Java Object-Oriented Programming course provided by Alura Cursos, 
 with the aim of learning Java programming:
 - [x] Java: Creating your first application
 - [x] Java: Applying object-oriented programming
 - [x] Java: Working with lists and data collections
-- [ ] Java: Consuming APIs, writing files, and handling errors
+- [x] Java: Consuming APIs, writing files, and handling errors
 
 ## Description
 ScreenMatch is a Java-based catalog of movies and TV series that offers a diverse range of content suitable 
@@ -20,8 +24,10 @@ Whether you're looking for family-friendly entertainment or engaging shows, Scre
 
 ## Using the Django Web Application
 
-**Prerequisites**
-No One
+**Prerequisites:**
+
+Lib Gson
+https://mvnrepository.com/artifact/com.google.code.gson/gson
 
 **Cloning the Repository**
 1. Open the terminal and navigate to the directory where you want to clone the project.
@@ -33,10 +39,8 @@ This will create a local copy of the project in your directory.
 
   
 ## Screenshots(Class Diagram)
-![Img01](readme-screenshots/01.png)
-![Img02](readme-screenshots/02.png)
-![Img03](readme-screenshots/03.png)
-![Img04](readme-screenshots/04.png)
+![Img01](Mapa-aplicacao.jpeg)
+
 
 
 
